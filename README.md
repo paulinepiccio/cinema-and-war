@@ -4,7 +4,7 @@ How do different national film industries portray armed conflicts ? (Analysis ac
 ## 🎯 Research question
 
 Does each country's cinema reflect its own wars, or those of others?  
-This project explores how the USA, France, UK, Germany, Russia, and South Korea 
+This project explores how the USA, France, UK, Germany, Russia, and Japan 
 have portrayed armed conflicts in cinema from 1945 to today.
 
 ## ⚠️ Methodological scope
