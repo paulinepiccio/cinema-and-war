@@ -14,7 +14,20 @@ have portrayed armed conflicts in cinema from 1945 to today.
 **Conflicts covered:** Armed conflicts that occurred between 1945 and today, 
 with **one notable exception**: World War II (1939-1945) is included 
 because it remains the most-filmed conflict in cinema history and 
-serves as a shared reference point across all 6 countries studied. 
+serves as a major reference point across all 6 countries studied.
+
+**Country selection rationale:**
+- A balanced mix of Western powers (USA, UK, France, Germany) 
+- Two non-Western perspectives (Russia, Japan)
+- Different relationships to armed conflict: 
+  - Active military actors (USA, UK, France, Russia)
+  - Countries that experienced WWII as the central national trauma 
+    and developed distinct cinematic traditions about it (Germany, Japan)
+
+**Acknowledged limitation:** This selection privileges 20th-century 
+geopolitically dominant nations. A future version could include 
+emerging cinema industries (South Korea, India, China) for broader 
+representation.
 
 ## 🛠️ Tech stack
 
