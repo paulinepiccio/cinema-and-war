@@ -1,0 +1,36 @@
+conflict,start_year,end_year,involved_countries,region,conflict_type
+World War II,1939,1945,"US,FR,GB,DE,RU,JP,IT,CN",global,world_war
+Chinese Civil War,1945,1949,"CN,RU,US",Asia,civil_war
+First Indochina War,1946,1954,"FR,VN",Asia,colonial_war
+Greek Civil War,1946,1949,"GR,GB,US",Europe,civil_war
+Cold War,1947,1991,"US,RU,DE,GB",global,cold_war
+Malayan Emergency,1948,1960,"GB,MY",Asia,colonial_war
+Korean War,1950,1953,"US,CN,RU,GB",Asia,proxy_war
+Mau Mau Uprising,1952,1960,"GB,KE",Africa,colonial_war
+Algerian War,1954,1962,"FR,DZ",Africa,colonial_war
+Vietnam War,1955,1975,"US,VN,FR",Asia,proxy_war
+Suez Crisis,1956,1956,"GB,FR,IL,EG",Middle East,interstate_war
+Hungarian Revolution,1956,1956,"RU,HU",Europe,uprising
+Bay of Pigs,1961,1961,"US,CU",Latin America,covert_operation
+Berlin Wall,1961,1989,"DE,US,RU",Europe,cold_war
+Prague Spring,1968,1968,"RU,CZ",Europe,uprising
+Northern Ireland Troubles,1968,1998,"GB",Europe,internal_conflict
+Yom Kippur War,1973,1973,"IL,EG,SY,US,RU",Middle East,interstate_war
+Lebanese Civil War,1975,1990,"LB,SY,IL,FR",Middle East,civil_war
+Soviet-Afghan War,1979,1989,"RU,AF,US",Asia,proxy_war
+Iran-Iraq War,1980,1988,"IR,IQ,US",Middle East,interstate_war
+Falklands War,1982,1982,"GB,AR",South America,interstate_war
+Gulf War,1990,1991,"US,GB,FR,IQ",Middle East,coalition_war
+Bosnian War,1992,1995,"BA,RS,HR,US,GB,FR",Europe,civil_war
+Rwandan Genocide,1994,1994,"RW,FR",Africa,genocide
+First Chechen War,1994,1996,"RU,Chechnya",Europe,internal_conflict
+Kosovo War,1998,1999,"RS,XK,US,GB,FR,DE",Europe,coalition_war
+Second Chechen War,1999,2009,"RU,Chechnya",Europe,internal_conflict
+War in Afghanistan,2001,2021,"US,GB,FR,DE,JP,AF",Asia,coalition_war
+Iraq War,2003,2011,"US,GB,JP,IQ",Middle East,coalition_war
+Russo-Georgian War,2008,2008,"RU,GE",Europe,interstate_war
+Libyan Civil War,2011,2011,"LY,FR,GB,US",Africa,coalition_war
+Syrian Civil War,2011,2025,"SY,US,RU,FR,GB",Middle East,civil_war
+War in Donbas,2014,2022,"UA,RU",Europe,internal_conflict
+Yemeni Civil War,2014,2025,"YE,US,GB",Middle East,civil_war
+Russo-Ukrainian War,2022,2025,"UA,RU,US,GB,FR,DE",Europe,interstate_war
