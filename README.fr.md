@@ -79,15 +79,15 @@ Les États-Unis représentent près de la moitié des films classifiés (44,9 %)
 
 <img width="1080" height="422" alt="image" src="https://github.com/user-attachments/assets/b092d22b-9c90-4314-997f-79d7d7d97d4c" />
 
+[![Temporal evolution chart](outputs/figures/02_temporal_evolution.png)](notebooks/04_analysis_and_visualization.ipynb#scrollTo=cell-8)
+
+> 💡 **Version interactive**
+
 Cinq des six pays atteignent leur pic historique dans les années 2010. La Russie fait exception : elle culmine dans les années 1960 (21,6 %), pendant l'âge d'or soviétique du cinéma sur la Grande Guerre patriotique, avant un effondrement dans les années 1990 (5,3 %) puis un redressement soutenu par l'État. La France dessine une courbe en U remarquable : production très faible dans l'après-guerre (4,2 à 4,8 % dans les années 1940-50), bond dans les années 1960 (15,6 %) puis montée régulière jusqu'au pic des années 2010 (22,2 %).
 
 ### Signatures cinématographiques par pays
 
-[📸 INSÉRER : heatmap de la cellule 13 du notebook 4]
-
-[![Temporal evolution chart](outputs/figures/02_temporal_evolution.png)](notebooks/04_analysis_and_visualization.ipynb#scrollTo=cell-8)
-
-> 💡 **Version interactive**
+<img width="1947" height="2376" alt="03_heatmap_conflict_country" src="https://github.com/user-attachments/assets/24f98d43-628b-4ded-a6e7-57c3971012a4" />
 
 La Seconde Guerre mondiale domine partout, mais inégalement : de 65,9 % (États-Unis) à 95,2 % (Japon), soit un écart de 30 points. Au-delà de la Seconde Guerre, des signatures nationales claires émergent :
 
@@ -100,7 +100,7 @@ La Seconde Guerre mondiale domine partout, mais inégalement : de 65,9 % (États
 
 ### Narration de soi vs narration de l'autre
 
-<img width="1947" height="2376" alt="03_heatmap_conflict_country" src="https://github.com/user-attachments/assets/24f98d43-628b-4ded-a6e7-57c3971012a4" />
+<img width="1205" height="585" alt="image" src="https://github.com/user-attachments/assets/971621d6-9b35-49e2-b6ac-5a582ab8a947" />
 
 Les six pays consacrent 92 à 99 % de leurs films de guerre à des conflits dans lesquels ils ont été impliqués. Mais ce chiffre est mécaniquement gonflé par la Seconde Guerre mondiale.
 
