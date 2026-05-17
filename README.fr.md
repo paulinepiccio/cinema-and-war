@@ -124,6 +124,8 @@ Le cinéma de guerre est massivement un cinéma de mémoire : 74,5 % des films s
 - **Le Japon filme « à froid »** : 95,2 % en mémoire longue
 - **La Russie (84,1 % en mémoire longue)** rejoint le profil japonais, malgré ses conflits récents
 
+<img width="1197" height="732" alt="image" src="https://github.com/user-attachments/assets/aa8b8f17-189b-44aa-99e4-d34c12e158be" />
+
 Les conflits eux aussi suivent des rythmes radicalement différents. Conflits « à chaud » : Afghanistan (83 % pendant), guerre froide (54 %), guerre d'Irak (52 %). Conflits « à froid » : Seconde Guerre mondiale (87 % en mémoire longue), guerre d'Algérie (80 %), guerre du Vietnam (62 %).
 
 ### Conflits universels vs nationaux
