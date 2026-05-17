@@ -12,7 +12,7 @@
 
 ## Introduction
 
-Quand un pays produit un film de guerre, il fait deux choses à la fois : il représente un conflit, et il fabrique une mémoire. Les deux opérations ne se confondent pas. *Apocalypse Now* (1979) ne dit pas le Vietnam : il dit l'Amérique vietnamienne, c'est-à-dire un récit américain sur une guerre où l'Amérique a été défaite. Entre l'événement et son film, il y a toujours un choix : choix de filmer ou de se taire, choix d'attendre ou de filmer dans l'urgence, choix de raconter une guerre qui est la sienne ou une guerre qui ne l'est pas. C'est ce choix, dans ses régularités et ses dissonances, qui intéresse ce travail.
+Quand un pays produit un film de guerre, il fait deux choses à la fois : il représente un conflit, et il fabrique une mémoire. *Apocalypse Now* (1979) ne dit pas le Vietnam : il dit l'Amérique vietnamienne, c'est-à-dire un récit américain sur une guerre où l'Amérique a été défaite. Entre l'événement et son film, il y a toujours un choix : choix de filmer ou de se taire, choix d'attendre ou de filmer dans l'urgence, choix de raconter une guerre qui est la sienne ou une guerre qui ne l'est pas. C'est ce choix, dans ses régularités et ses dissonances, qui intéresse ce travail.
 
 À partir d'un corpus de 2 343 films produits entre 1945 et 2025 dans six pays (États-Unis, Royaume-Uni, France, Allemagne, Russie et Japon) et classifiés selon 26 conflits armés, il s'est agi de mesurer ce qui, dans le genre apparemment globalisé du film de guerre, relève en réalité de mémoires nationales fragmentées et asymétriques. Les chiffres, à eux seuls, ne disent pas grand-chose ; mais croisés avec le contexte géopolitique de chaque pays, ils dessinent une géographie singulière de l'amnésie et de la commémoration. 
 
