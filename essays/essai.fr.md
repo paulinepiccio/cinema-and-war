@@ -4,7 +4,7 @@
 
 ---
 
-# Cinéma et guerre : ce que les nations choisissent de filmer
+# Six mémoires, un écran : ce que les nations choisissent de filmer
 
 *Réflexion à partir de l'analyse de 2 343 films de guerre dans six cinématographies nationales (1945-2025).*
 
