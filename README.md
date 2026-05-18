@@ -1,7 +1,5 @@
 > **Language**: English · [Français](README.fr.md)
-> 
-> For a longer narrative reflection on what this data reveals about national memory, see [the essay](essay/essay.md) · [l'essai en français](essay/essai.fr.md)
-
+> For a longer narrative reflection on what this data reveals about national memory, see [the essay](essays/essay.md) · [l'essai en français](essays/essai.fr.md)
 ---
 
 # 🎬 Cinema and War
