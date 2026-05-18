@@ -4,7 +4,7 @@
 
 ---
 
-# Cinema and War : What Nations Choose to Film
+# Six memories, One screen : What Nations Choose to Film
 
 *An essay based on the analysis of 2,343 war films across six national cinemas (1945-2025).*
 
