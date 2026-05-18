@@ -69,7 +69,7 @@ Une première version du dataset présentait une anomalie frappante : zéro film
 
 ### Volume par pays
 
-<img width="801" height="452" alt="image" src="https://github.com/user-attachments/assets/115a960b-4779-475e-ba8f-4f5388f6c6f6" />
+<img width="801" height="452" alt="image" src="https://github.com/user-attachments/assets/b70c2f6e-0868-4426-a6fa-f599c43b0370" />
 
 Les États-Unis représentent près de la moitié des films classifiés (44,9 %), suivis du Royaume-Uni (17,6 %). La Russie/URSS arrive en troisième position (14,4 %), portée à la fois par les classiques soviétiques et la production contemporaine. Le Japon ferme la marche à 4,3 %, en cohérence avec son rôle militaire constitutionnellement limité depuis 1947.
 
@@ -77,7 +77,7 @@ Les États-Unis représentent près de la moitié des films classifiés (44,9 %)
 
 ### Évolution temporelle
 
-<img width="1080" height="422" alt="image" src="https://github.com/user-attachments/assets/b092d22b-9c90-4314-997f-79d7d7d97d4c" />
+<img width="1342" height="537" alt="image" src="https://github.com/user-attachments/assets/142b0df5-f68d-45f9-8784-c3c9e297d486" />
 
 [![Temporal evolution chart](outputs/figures/02_temporal_evolution.png)](notebooks/04_analysis_and_visualization.ipynb#scrollTo=cell-8)
 
@@ -87,7 +87,7 @@ Cinq des six pays atteignent leur pic historique dans les années 2010. La Russi
 
 ### Signatures cinématographiques par pays
 
-<img width="1947" height="2376" alt="03_heatmap_conflict_country" src="https://github.com/user-attachments/assets/24f98d43-628b-4ded-a6e7-57c3971012a4" />
+<img width="1947" height="2376" alt="03_heatmap_conflict_country (6)" src="https://github.com/user-attachments/assets/8ecc2245-bec9-4fe2-be04-cd6f3b1ede8c" />
 
 La Seconde Guerre mondiale domine partout, mais inégalement : de 65,9 % (États-Unis) à 95,2 % (Japon), soit un écart de 30 points. Au-delà de la Seconde Guerre, des signatures nationales claires émergent :
 
@@ -100,11 +100,11 @@ La Seconde Guerre mondiale domine partout, mais inégalement : de 65,9 % (États
 
 ### Narration de soi vs narration de l'autre
 
-<img width="1205" height="585" alt="image" src="https://github.com/user-attachments/assets/971621d6-9b35-49e2-b6ac-5a582ab8a947" />
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/c37fb5fb-ea67-4107-9b82-a36750c12c0b" />
 
 Les six pays consacrent 92 à 99 % de leurs films de guerre à des conflits dans lesquels ils ont été impliqués. Mais ce chiffre est mécaniquement gonflé par la Seconde Guerre mondiale.
 
-<img width="1197" height="581" alt="image" src="https://github.com/user-attachments/assets/c80e0eee-fd93-485f-99ed-764f8252c533" />
+<img width="1191" height="589" alt="image" src="https://github.com/user-attachments/assets/b85537aa-93cd-4671-8e58-60243d541100" />
 
 Une fois celle-ci retirée, trois groupes se dessinent :
 
@@ -116,7 +116,7 @@ Un cas particulièrement intéressant : les 7 films russes non-WWII de « narrat
 
 ### Décalage temporel
 
-<img width="1301" height="582" alt="image" src="https://github.com/user-attachments/assets/8433f52a-0eac-478b-9b8f-4bf22c330e52" />
+<img width="1292" height="590" alt="image" src="https://github.com/user-attachments/assets/3db542d0-930d-49e3-a69e-7d8348f05c90" />
 
 Le cinéma de guerre est massivement un cinéma de mémoire : 74,5 % des films sortent plus de 10 ans après la fin du conflit. Seuls 10,9 % sont tournés pendant le conflit lui-même. Mais chaque pays a son propre rythme :
 
@@ -124,13 +124,13 @@ Le cinéma de guerre est massivement un cinéma de mémoire : 74,5 % des films s
 - **Le Japon filme « à froid »** : 95,2 % en mémoire longue
 - **La Russie (84,1 % en mémoire longue)** rejoint le profil japonais, malgré ses conflits récents
 
-<img width="1197" height="732" alt="image" src="https://github.com/user-attachments/assets/aa8b8f17-189b-44aa-99e4-d34c12e158be" />
+<img width="1292" height="790" alt="image" src="https://github.com/user-attachments/assets/57340bd4-9a3d-42f4-a831-b8dac43f0244" />
 
 Les conflits eux aussi suivent des rythmes radicalement différents. Conflits « à chaud » : Afghanistan (83 % pendant), guerre froide (54 %), guerre d'Irak (52 %). Conflits « à froid » : Seconde Guerre mondiale (87 % en mémoire longue), guerre d'Algérie (80 %), guerre du Vietnam (62 %).
 
 ### Conflits universels vs nationaux
 
-<img width="2592" height="1968" alt="06_universality_ranking" src="https://github.com/user-attachments/assets/3a47b08a-3784-4af5-8623-dfb678ac0457" />
+<img width="2592" height="1968" alt="06_universality_ranking (1)" src="https://github.com/user-attachments/assets/b0322b84-ba81-4d3a-9c69-673727a53554" />
 
 Sur les 26 conflits, seulement 5 (19 %) sont filmés par 5 à 6 pays. Et ces « universels » sont fortement dominés par Hollywood (Vietnam : 85 % américain ; Afghanistan : 63 %). La Seconde Guerre mondiale est le seul conflit véritablement universel et équilibré. Quatre conflits constituent de vraies signatures nationales (90 % et + venant d'un seul pays non-américain) : guerre d'Algérie (FR), première guerre de Tchétchénie (RU), guerre des Malouines (UK), conflit nord-irlandais (UK).
 
