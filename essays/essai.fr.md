@@ -26,13 +26,13 @@ Trois questions, prises ensemble, structurent l'analyse. Y a-t-il, d'abord, un c
 
 La première observation, qui pourrait passer pour une évidence, mérite d'être posée pour ce qu'elle révèle ensuite. À première vue, les six pays étudiés produisent tous des films de guerre, et tous filment massivement le même conflit fondateur : la Seconde Guerre mondiale. Vu de loin, l'unité du genre semble acquise.
 
-<img width="801" height="452" alt="image" src="https://github.com/user-attachments/assets/115a960b-4779-475e-ba8f-4f5388f6c6f6" />
+<img width="801" height="452" alt="image" src="https://github.com/user-attachments/assets/b70c2f6e-0868-4426-a6fa-f599c43b0370" />
 
 Pourtant, dès qu'on regarde de plus près les volumes produits, l'asymétrie crève les yeux. Les États-Unis représentent à eux seuls près de la moitié du corpus classifié (44,9 %), suivis de loin par le Royaume-Uni (17,6 %). La Russie (14,4 %), la France (11,6 %), l'Allemagne (7,3 %) et le Japon (4,3 %) ferment la marche dans cet ordre. Hollywood n'est pas simplement *un* cinéma de guerre parmi d'autres : c'est, statistiquement, *le* cinéma de guerre mondial. À lui seul, le déséquilibre entre les États-Unis et le Japon (plus de dix fois plus de films côté américain) suggère que ce qu'on appelle « cinéma de guerre » ne désigne pas une réalité unifiée mais une géographie de production très inégalement répartie. On notera, du reste, que ce volume reflète à la fois la taille des industries nationales et la couverture anglo-centrée de la base TMDB, qui sous-représente structurellement les cinématographies non anglophones. 
 
 C'est en examinant la temporalité de cette production que le diagnostic se précise. Cinq des six pays atteignent leur pic historique dans les années 2010, dans ce qui apparaît comme un boom contemporain du genre, sans doute lié à la fois aux plateformes de streaming, aux commémorations d'anniversaire (Seconde Guerre mondiale, Vietnam) et aux conflits ouverts (Irak, Afghanistan, Syrie, Ukraine). Tous, sauf un : la Russie.
 
-<img width="1080" height="422" alt="image" src="https://github.com/user-attachments/assets/b092d22b-9c90-4314-997f-79d7d7d97d4c" />
+<img width="1342" height="537" alt="image" src="https://github.com/user-attachments/assets/142b0df5-f68d-45f9-8784-c3c9e297d486" />
 
 [![Temporal evolution chart](outputs/figures/02_temporal_evolution.png)](notebooks/04_analysis_and_visualization.ipynb#scrollTo=cell-8)
 
@@ -50,7 +50,7 @@ Si donc on peut parler d'« un » cinéma de guerre, c'est seulement au sens où
 
 Une fois admise la pluralité du genre, reste à comprendre ce qui le différencie. Si chaque pays filme la guerre à sa manière, c'est d'abord parce qu'il ne filme pas les mêmes guerres. La cartographie des conflits, croisée avec les pays producteurs, dessine ce qu'on pourrait appeler des **signatures nationales**.
 
-<img width="1947" height="2376" alt="03_heatmap_conflict_country" src="https://github.com/user-attachments/assets/24f98d43-628b-4ded-a6e7-57c3971012a4" />
+<img width="1947" height="2376" alt="03_heatmap_conflict_country (6)" src="https://github.com/user-attachments/assets/8ecc2245-bec9-4fe2-be04-cd6f3b1ede8c" />
 
 Cette heatmap fait apparaître presque mécaniquement une diagonale d'appropriations. La Seconde Guerre mondiale domine partout, mais inégalement : de 65,9 % aux États-Unis à 95,2 % au Japon, soit un écart de trente points. Ce chiffre japonais, à lui seul, mérite qu'on s'y arrête. Que le Japon consacre 95 % de son cinéma de guerre à un seul conflit n'est pas un trait culturel énigmatique : c'est la conséquence directe de l'article 9 de sa Constitution de 1947, par lequel le pays « renonce à jamais à la guerre comme droit souverain de la nation ». Si l'on peut filmer une guerre, encore faut-il en avoir une à filmer. Le cinéma japonais, privé depuis 1947 d'engagements militaires substantiels, est condamné à revenir au conflit de 1939-1945, vu depuis Hiroshima, Nagasaki, les bombardements de Tokyo et la mémoire impériale jamais entièrement réglée.
 
@@ -62,9 +62,9 @@ Le Royaume-Uni, lui, présente le profil le plus dispersé du corpus. Sa signatu
 
 Mais une fois identifiées ces signatures, une question plus subtile se pose : chaque pays filme-t-il réellement ses propres guerres, ou aussi celles des autres ? C'est ici qu'une seconde analyse, sur la nature de la narration, révèle un trait inattendu.
 
-<img width="1205" height="585" alt="image" src="https://github.com/user-attachments/assets/971621d6-9b35-49e2-b6ac-5a582ab8a947" />
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/c37fb5fb-ea67-4107-9b82-a36750c12c0b" />
 
-<img width="1197" height="581" alt="image" src="https://github.com/user-attachments/assets/c80e0eee-fd93-485f-99ed-764f8252c533" />
+<img width="1191" height="589" alt="image" src="https://github.com/user-attachments/assets/b85537aa-93cd-4671-8e58-60243d541100" />
 
 Une fois la Seconde Guerre mondiale écartée (elle implique mécaniquement tous les pays et fausse la lecture), trois groupes apparaissent. Les États-Unis (95,9 %) et la France (93,9 %) sont des cinémas farouchement auto-centrés : ils filment leurs propres guerres et presque exclusivement les leurs. Le Royaume-Uni (75,6 % contre 24,4 %) et la Russie (66,7 % contre 33,3 %) présentent un profil mixte. Le Royaume-Uni filme largement les guerres des autres, mais avec une particularité frappante : sur dix films britanniques portant sur des conflits étrangers, six concernent la guerre du Vietnam, celle de l'Amérique, donc, à laquelle le Royaume-Uni n'a pourtant pas participé. On y lit peut-être l'écosystème anglo-américain à l'œuvre, qui fait du cinéma britannique un partenaire culturel constant du récit hollywoodien.
 
@@ -80,13 +80,13 @@ Reste, pour clore cette réflexion, à interroger la dimension qui structure sec
 
 La réponse globale est sans appel : 74,5 % des films sortent plus de dix ans après la fin du conflit qu'ils représentent. Le cinéma de guerre est, d'abord et avant tout, un cinéma de la mémoire. Seuls 10,9 % des films sortent pendant le conflit lui-même, et 14,6 % dans la décennie qui suit. La guerre, pour devenir film, a besoin de temps, souvent beaucoup de temps. Mais cette moyenne masque des écarts considérables, qui prolongent et confirment ce que les signatures nationales avaient déjà laissé entrevoir.
 
-<img width="1301" height="582" alt="image" src="https://github.com/user-attachments/assets/8433f52a-0eac-478b-9b8f-4bf22c330e52" />
+<img width="1292" height="590" alt="image" src="https://github.com/user-attachments/assets/3db542d0-930d-49e3-a69e-7d8348f05c90" />
 
 Les États-Unis sont les plus contemporains de leurs guerres : 34 % de leurs films sortent pendant ou dans les dix ans suivant la fin du conflit, ce qui en fait le seul cinéma à filmer véritablement à chaud. Hollywood est, en quelque sorte, le chroniqueur en temps quasi réel des engagements militaires américains : *American Sniper* (2014) sort trois ans après la fin officielle de la guerre d'Irak, *Lone Survivor* (2013) ou *12 Strong* (2018) traitent de la guerre d'Afghanistan alors même que les troupes américaines y sont encore engagées. À l'autre extrême, le Japon (95,2 % en mémoire longue) et la Russie (84,1 %) cultivent un rapport à la guerre fondamentalement rétrospectif. Le Japon ne peut faire autrement, faute de conflits récents ; la Russie, plus paradoxalement, le choisit, accumulant les films sur 1945 quand ses conflits contemporains restent largement sous-traités à l'écran.
 
 Mais c'est en raisonnant par conflit, et non plus par pays, que la distribution temporelle devient la plus révélatrice.
 
-<img width="1197" height="732" alt="image" src="https://github.com/user-attachments/assets/aa8b8f17-189b-44aa-99e4-d34c12e158be" />
+<img width="1292" height="790" alt="image" src="https://github.com/user-attachments/assets/57340bd4-9a3d-42f4-a831-b8dac43f0244" />
 
 Trois catégories émergent. Les conflits dits « à chaud » se filment majoritairement pendant qu'ils ont lieu : la guerre d'Afghanistan post-2001 (83,3 %), la guerre froide (54,2 %) qui dura, il est vrai, assez longtemps pour devenir genre cinématographique en son sein même, par l'espionnage à la John Le Carré et les adaptations d'Ian Fleming, la guerre d'Irak (51,6 %). Les conflits « tièdes » se filment majoritairement dans la décennie qui suit leur fin : guerre du Golfe (80 % d'aftermath), guerre de Corée (63,3 %), guerre de Bosnie (53,8 %). Les conflits « froids », enfin, exigent plus de dix ans avant d'être filmés massivement : Seconde Guerre mondiale (87,4 % en mémoire longue), guerre d'Algérie (80 %), guerre du Vietnam (61,7 %).
 
@@ -94,7 +94,7 @@ Or il n'est pas anodin que les trois conflits les plus lents à devenir cinéma 
 
 Cette dernière observation conduit à une question finale, peut-être la plus instructive : que filme-t-on, et que ne filme-t-on pas ?
 
-<img width="2592" height="1968" alt="06_universality_ranking" src="https://github.com/user-attachments/assets/3a47b08a-3784-4af5-8623-dfb678ac0457" />
+<img width="2592" height="1968" alt="06_universality_ranking (1)" src="https://github.com/user-attachments/assets/b0322b84-ba81-4d3a-9c69-673727a53554" />
 
 Sur les vingt-six conflits classifiés, cinq seulement (19 %) sont filmés par cinq ou six pays (et encore, l'« universalité » de ces cinq conflits est très relative). La guerre du Vietnam est filmée à 85 % par les Américains, la guerre d'Afghanistan à 63 %, la guerre froide à 46 %. La seule véritable universalité équilibrée concerne la Seconde Guerre mondiale, où les six pays participent dans des proportions à peu près comparables (États-Unis 39 %, autres entre 7 et 19 %). Pour le reste, ce qu'on prend pour de l'universel relève en réalité d'une hégémonie hollywoodienne avec contributions étrangères en sous-traitance.
 
