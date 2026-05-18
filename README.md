@@ -71,7 +71,7 @@ This was a useful methodological lesson : when a dataset shows a strikingly anom
 
 ### Volume by country
 
-<img width="801" height="452" alt="image" src="https://github.com/user-attachments/assets/115a960b-4779-475e-ba8f-4f5388f6c6f6" />
+<img width="801" height="452" alt="image" src="https://github.com/user-attachments/assets/b70c2f6e-0868-4426-a6fa-f599c43b0370" />
 
 
 The USA contributes nearly half of classified films (44.9%), followed by the UK (17.6%). Russia/USSR sits third at 14.4%, driven by both Soviet-era classics and contemporary productions. Japan trails at 4.3%, consistent with its constitutionally-limited military role since 1947.
@@ -80,8 +80,7 @@ The USA contributes nearly half of classified films (44.9%), followed by the UK 
 
 ### Temporal evolution
 
-
-<img width="1080" height="422" alt="image" src="https://github.com/user-attachments/assets/b092d22b-9c90-4314-997f-79d7d7d97d4c" />
+<img width="1342" height="537" alt="image" src="https://github.com/user-attachments/assets/142b0df5-f68d-45f9-8784-c3c9e297d486" />
 
 [![Temporal evolution chart](outputs/figures/02_temporal_evolution.png)](notebooks/04_analysis_and_visualization.ipynb#scrollTo=cell-8)
 
@@ -92,8 +91,7 @@ Five of six countries reach their historical peak in the 2010s. Russia is the on
 
 ### Conflict signatures
 
-<img width="1947" height="2376" alt="03_heatmap_conflict_country" src="https://github.com/user-attachments/assets/24f98d43-628b-4ded-a6e7-57c3971012a4" />
-
+<img width="1947" height="2376" alt="03_heatmap_conflict_country (6)" src="https://github.com/user-attachments/assets/8ecc2245-bec9-4fe2-be04-cd6f3b1ede8c" />
 
 WWII dominates everywhere but unevenly : from 65.9% (USA) to 95.2% (Japan), a 30-point gap. Beyond WWII, national signatures emerge clearly :
 - **France ↔ Algerian War** (5.4%, near-exclusive)
@@ -105,11 +103,11 @@ WWII dominates everywhere but unevenly : from 65.9% (USA) to 95.2% (Japan), a 30
 
 ### Self vs Other narration
 
-<img width="1205" height="585" alt="image" src="https://github.com/user-attachments/assets/971621d6-9b35-49e2-b6ac-5a582ab8a947" />
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/c37fb5fb-ea67-4107-9b82-a36750c12c0b" />
 
 All six countries devote 92–99% of their war films to conflicts they were involved in. But this is mechanically inflated by WWII. 
 
-<img width="1197" height="581" alt="image" src="https://github.com/user-attachments/assets/c80e0eee-fd93-485f-99ed-764f8252c533" />
+<img width="1191" height="589" alt="image" src="https://github.com/user-attachments/assets/b85537aa-93cd-4671-8e58-60243d541100" />
 
 Once WWII is removed, three groups emerge :
 
@@ -121,7 +119,7 @@ One surprising case : Russia's 7 non-WWII "other" films all treat the post-2001 
 
 ### Time lag
 
-<img width="1301" height="582" alt="image" src="https://github.com/user-attachments/assets/8433f52a-0eac-478b-9b8f-4bf22c330e52" />
+<img width="1292" height="590" alt="image" src="https://github.com/user-attachments/assets/3db542d0-930d-49e3-a69e-7d8348f05c90" />
 
 War cinema is overwhelmingly a cinema of memory : 74.5% of films are released more than 10 years after their conflict ended. Only 10.9% are filmed during the conflict itself. But each country has its own rhythm :
 
@@ -129,13 +127,13 @@ War cinema is overwhelmingly a cinema of memory : 74.5% of films are released mo
 - **Japan films "cold"** : 95.2% long-term memory (most retrospective)
 - **Russia (84.1% long-term)** echoes Japan, despite recent conflicts
 
-<img width="1197" height="732" alt="image" src="https://github.com/user-attachments/assets/aa8b8f17-189b-44aa-99e4-d34c12e158be" />
+<img width="1292" height="790" alt="image" src="https://github.com/user-attachments/assets/57340bd4-9a3d-42f4-a831-b8dac43f0244" />
 
 Conflicts also follow different timelines. Hot : Afghanistan (83% during), Cold War (54%), Iraq (52%). Cold: WWII (87% long-term), Algerian War (80%), Vietnam (62%).
 
 ### Universal vs national conflicts
 
-<img width="2592" height="1968" alt="06_universality_ranking" src="https://github.com/user-attachments/assets/3a47b08a-3784-4af5-8623-dfb678ac0457" />
+<img width="2592" height="1968" alt="06_universality_ranking (1)" src="https://github.com/user-attachments/assets/b0322b84-ba81-4d3a-9c69-673727a53554" />
 
 Of 26 conflicts, only 5 (19%) are filmed by 5–6 countries, and even those are heavily US-dominated (Vietnam : 85% American ; Afghanistan : 63%). WWII is the only truly balanced universal subject. Four conflicts are true national signatures (90%+ from a single non-US country) : Algerian War (FR), First Chechen War (RU), Falklands War (UK), Northern Ireland Troubles (UK).
 
