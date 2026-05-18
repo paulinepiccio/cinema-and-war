@@ -1,7 +1,5 @@
 > 🌍 **Langue** : Français · [English](README.md) 
-> 
-> 📖 Pour une réflexion narrative plus approfondie sur ce que ces données révèlent de la mémoire nationale, voir [l'essai en français](essay/essai.fr.md) · [the essay in English](essay/essay.md)
-
+> Pour une réflexion narrative plus approfondie sur ce que ces données révèlent de la mémoire nationale, voir [l'essai en français](essays/essai.fr.md) · [the essay in English](essays/essay.md)
 ---
 
 # 🎬 Cinema and War
@@ -142,5 +140,3 @@ Une fois agrégé sur six pays et 26 conflits, le cinéma de guerre apparaît mo
 La Seconde Guerre mondiale est le seul sujet véritablement universel : tous les pays la filment, chacun selon son propre angle. Au-delà, les asymétries deviennent frappantes : Hollywood filme les guerres américaines presque en temps réel, la France a mis des décennies avant de s'engager cinématographiquement sur la guerre d'Algérie et l'Allemagne répartit son regard à parts égales entre ses propres conflits et ceux des autres. La Russie ancre son cinéma dans la Grande Guerre patriotique tout en revisitant ponctuellement la guerre américaine en Afghanistan comme un miroir de sa propre expérience soviétique. Le Japon, sous le pacifisme constitutionnel de l'article 9 de sa constitution (1947), concentre 95 % de son cinéma de guerre sur un unique conflit (WWII). Le Royaume-Uni fragmente son regard à travers les échos de son empire colonial, tout en laissant certains chapitres (comme l'insurrection des Mau Mau) presque inexplorés à l'écran.
 
 À travers ce corpus, le cinéma de guerre ne reflète pas seulement ce qui s'est passé : il révèle ce que chaque pays a choisi de garder en mémoire sur ses écrans (et ce qu'il a choisi de passer sous silence).
-
-> 📖 Pour une exploration narrative plus approfondie de ces résultats, voir [l'essai](essay/essai.fr.md).
